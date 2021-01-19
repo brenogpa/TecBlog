@@ -10,7 +10,7 @@ Hey there! This project was built to develop HTML and CSS skills!
 * CSS3
 
   
-## Authors
+## Author
  The project design belongs to this guy:
  
 [**Jamilton Damasceno**](https://www.udemy.com/course/web-completo/#instructor-2)
@@ -19,6 +19,6 @@ Hey there! This project was built to develop HTML and CSS skills!
 
 
 
-# Don't forget to give a ⭐️ if you like this project!
+###### Don't forget to give a ⭐️ if you like this project!
 
-** Thanks for visiting me and good coding! :v:
+###### Thanks for visiting me and good coding! :v: 
