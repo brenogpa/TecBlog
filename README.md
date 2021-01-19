@@ -15,9 +15,8 @@ Hey there! This project was built to develop HTML and CSS skills!
  
 [**Jamilton Damasceno**](https://www.udemy.com/course/web-completo/#instructor-2)
 
-## This is me
-**Breno Abreu**
-* [**Git Hub**](https://github.com/brenogpa)
+## Contact me
+
 * **brenogpa@gmail.com**
 
 
